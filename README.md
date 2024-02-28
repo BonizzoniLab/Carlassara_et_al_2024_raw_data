@@ -10,8 +10,7 @@ Research paper:
 Provisional citation:
 * Journal **Global Change Biology**, <ins>article ID: GCB17226</ins>
 
-* [Repository raw data] \
-  Carlassara, M., Khorramnejad, A., Oker, H., Bahrami, R., Lozada-Chávez, A. N., Mancini, M. V., Quaranta, S., Body, M. J. A., Lahondère, C., & Bonizzoni, M. (2024). Population-specific responses to developmental temperature in the arboviral vector Aedes albopictus: implications for climate change [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10719188 \
+* Repository **raw data**: Carlassara, M., Khorramnejad, A., Oker, H., Bahrami, R., Lozada-Chávez, A. N., Mancini, M. V., Quaranta, S., Body, M. J. A., Lahondère, C., & Bonizzoni, M. (2024). Population-specific responses to developmental temperature in the arboviral vector Aedes albopictus: implications for climate change [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10719188 \
   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10719188.svg)](https://doi.org/10.5281/zenodo.10719188)
 
 
